@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Test",
+        "kcal": "1",
+        "protein": "1",
+        "fats": "1",
+        "carbs": "1"
+    },
+    {
+        "name": "Test2",
+        "kcal": "2",
+        "protein": "2",
+        "fats": "2",
+        "carbs": "2"
+    },
+    {
+        "name": "Testeee",
+        "kcal": "1",
+        "protein": "1",
+        "fats": "1",
+        "carbs": "1"
+    }
+]
